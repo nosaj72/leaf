@@ -17,7 +17,7 @@ import (
 )
 
 const (
-	baseURL = "https://icm.infinitiusa.com/NissanConnectEVProd/rest"
+	baseURL = "https://icm.infinitiusa.com/NissanLeafProd/rest"
 	apiKey  = "bJG8LvpcRAAOrVQ8GByIzWkR4n993iccFtKNs1sn+gheOFGnT6ABaR6cvclCXetW"
 )
 
